@@ -1,6 +1,6 @@
 # product_card
 
-A new Flutter project.
+Flutter Cookie App
 
 ## Getting Started
 
