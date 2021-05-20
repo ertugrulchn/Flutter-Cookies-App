@@ -2,6 +2,10 @@
 
 Flutter Cookie App
 
+## App UI
+
+<img src="https://cdn.dribbble.com/users/703713/screenshots/6196911/_171_2x.png"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
