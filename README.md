@@ -9,8 +9,8 @@ Flutter Cookie App
 <img src="https://cdn.dribbble.com/users/703713/screenshots/6196911/attachments/1328182/category.png"/>
 
 ## My Social Media Links
-<a href="https://www.youtube.com/channel/UCuHw50io9_GDkpQHdkOladg">▶️ || YouTube</a>
-<a href="https://www.instagram.com/__._.ertugrul/">❤ || Instagram</a>
+<a href="https://www.youtube.com/channel/UCuHw50io9_GDkpQHdkOladg">▶️ || YouTube</a><br/>
+<a href="https://www.instagram.com/__._.ertugrul/">❤ || Instagram</a><br/>
 <a href="https://www.instagram.com/merakli_coder.dev/">❤ || Instagram Developer Profile</a>
 
 ## The owner of the videos and images I have helped
